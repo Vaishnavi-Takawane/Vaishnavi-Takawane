@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaishnavi-Takawane
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning IOT
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me linkedin.com/in/vaishnavi-takawane-782a761bb
 
 <!---
